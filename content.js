@@ -135,44 +135,133 @@ function handleTableClick(event) {
 }
 
 function scrapeTables(tables) {
-    try {
-        if (!tables || tables.length === 0) {
-            console.warn('No tables selected for scraping');
+    // For .txt files, we need to find tables in the text content
+    if (window.location.pathname.endsWith('.txt')) {
+        const pageText = document.body.innerText;
+        const tableRegex = /<TABLE>[\s\S]*?<\/TABLE>/gi;
+        const matches = pageText.match(tableRegex);
+        
+        if (!matches) {
+            console.log('No tables found in .txt file');
             return { tables: [] };
         }
 
-        const scrapedTables = [];
-        
-        for (const table of tables) {
-            const rows = table.querySelectorAll('tr');
-            if (rows.length <= 1) continue;
-            
-            const tableData = {
-                headers: [],
-                rows: []
-            };
+        const scrapedTables = matches.map((tableText, tableIndex) => {
+            // Split the table text into rows
+            const rows = tableText
+                .replace(/<TABLE>|<\/TABLE>/gi, '')
+                .split('\n')
+                .map(row => row.trim())
+                .filter(row => row); // Keep all non-empty rows initially
 
-            // Get headers
-            const headerCells = rows[0].querySelectorAll('td, th');
-            tableData.headers = Array.from(headerCells).map(cell => cell.textContent.trim());
+            if (rows.length === 0) return null;
 
-            // Get all rows
-            for (let i = 1; i < rows.length; i++) {
-                const cells = rows[i].querySelectorAll('td');
-                const rowData = Array.from(cells).map(cell => cell.textContent.trim());
-                if (rowData.some(text => text)) { // Skip empty rows
-                    tableData.rows.push(rowData);
+            // Find the first header row (row after a separator)
+            let headerIndex = -1;
+            for (let i = 0; i < rows.length - 1; i++) {
+                if (/^[-=\s]+$/.test(rows[i])) {
+                    headerIndex = i + 1;
+                    break;
                 }
             }
-            
-            if (tableData.rows.length > 0) {
-                scrapedTables.push(tableData);
+
+            if (headerIndex === -1 || headerIndex >= rows.length) {
+                console.log('No valid header row found after separator');
+                return null;
             }
-        }
-        
+
+            // Extract headers from the row after the separator
+            const headers = rows[headerIndex]
+                .split(/\s+/)
+                .filter(header => header)
+                .map(header => header.trim());
+            
+            // Process remaining rows
+            const dataRows = rows.slice(headerIndex + 1).map(row => {
+                // Split by whitespace and remove empty cells
+                return row
+                    .split(/\s+/)
+                    .filter(cell => cell)
+                    .map(cell => cell.trim());
+            }).filter(row => {
+                // Remove empty rows and rows that are separators
+                return row.length > 0 && !row.every(cell => /^[-=\s]+$/.test(cell));
+            });
+
+            return {
+                headers: headers,
+                rows: dataRows
+            };
+        }).filter(table => table !== null);
+
         return { tables: scrapedTables };
-    } catch (error) {
-        console.error('Error in scrapeTables:', error);
+    }
+
+    // For regular HTML tables
+    if (!tables || tables.length === 0) {
+        console.log('No tables selected');
         return { tables: [] };
     }
+
+    const scrapedTables = Array.from(tables).map(table => {
+        // Get headers
+        const headerRow = table.querySelector('tr');
+        const headers = headerRow ? Array.from(headerRow.cells).map(cell => cell.textContent.trim()) : [];
+
+        // Get data rows
+        const rows = Array.from(table.querySelectorAll('tr')).slice(1).map(row => {
+            return Array.from(row.cells).map(cell => cell.textContent.trim());
+        });
+
+        return {
+            headers: headers,
+            rows: rows
+        };
+    });
+
+    return { tables: scrapedTables };
 }
+
+// Handle table selection
+let selectedTables = new Set();
+
+function toggleTableSelection(table) {
+    if (selectedTables.has(table)) {
+        selectedTables.delete(table);
+        table.classList.remove('table-selected');
+    } else {
+        selectedTables.add(table);
+        table.classList.add('table-selected');
+    }
+}
+
+// Add click handlers to tables
+document.addEventListener('click', (e) => {
+    const table = e.target.closest('table');
+    if (table) {
+        toggleTableSelection(table);
+    }
+});
+
+// Add hover effect
+document.addEventListener('mouseover', (e) => {
+    const table = e.target.closest('table');
+    if (table) {
+        table.classList.add('table-hover');
+    }
+});
+
+document.addEventListener('mouseout', (e) => {
+    const table = e.target.closest('table');
+    if (table) {
+        table.classList.remove('table-hover');
+    }
+});
+
+// Listen for messages from the popup
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    if (request.action === 'getSelectedTables') {
+        const result = scrapeTables(selectedTables);
+        sendResponse(result);
+    }
+});
