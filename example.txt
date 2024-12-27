@@ -1,0 +1,743 @@
+<table cellspacing="0" cellpadding="0" id="zab1e7a3484ea41179dd6ce37a90492ed" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+        <tbody><tr>
+          <td style="width: 20%; vertical-align: bottom; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;"><u>Date</u></div>
+          </td>
+          <td style="width: 20%; vertical-align: bottom; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;"><u>Buy/Sell</u></div>
+          </td>
+          <td style="width: 20%; vertical-align: bottom; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;"><u>Security</u></div>
+          </td>
+          <td style="width: 20%; vertical-align: bottom; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Approximate</div>
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;"><u>Price Per Share</u><sup style="vertical-align: text-top; line-height: 1; font-size: smaller;"><u>1</u></sup></div>
+          </td>
+          <td style="width: 20%; vertical-align: bottom; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Amount of Shares<u> Bought/(Sold)</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 100%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;" colspan="5">
+            <div style="line-height: 12.55pt;"><font style="line-height: 12.55pt;">&nbsp;</font></div>
+            <div style="text-align: center; line-height: 12.55pt; color: #000000; font-weight: bold;">Madison Avenue International LP</div>
+            <div style="line-height: 12.55pt;"><font style="line-height: 12.55pt;">&nbsp;</font></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/13/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$4.40</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;125,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/14/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$4.65</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;42,924</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/15/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$4.94</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;62,076</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/19/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$4.97</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;130,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/20/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.30</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;140,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/21/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.25</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;25,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/22/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.37</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;23,438</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/25/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.37</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;106,562</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/26/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.36</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;70,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/27/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.17</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;50,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/28/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.37</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;5,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">1/29/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.41</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;70,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/1/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.45</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;68,023</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/3/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.37</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;166,077</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/4/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.38</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;100,644</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/5/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.40</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;89,455</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/8/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$7.01</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;48,822</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/8/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.40</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;2,961</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/9/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.62</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;30,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/9/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.40</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;500</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/10/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.74</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;9,594</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/10/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.96</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;5,607</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/11/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$7.05</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;30,586</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/12/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.95</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;5,033</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/16/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.86</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;26,174</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/17/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.57</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;8,962</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/17/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.70</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;14,555</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/18/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.61</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;35,445</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/19/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.79</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;32,831</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/19/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.77</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;50,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/22/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.65</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;132,022</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/23/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.99</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;100,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/23/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.81</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;120,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/23/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.82</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;40,403</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/24/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.22</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;21,314</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">2/25/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$6.19</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;28,412</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">3/2/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.73</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;26,971</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">3/3/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.55</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;18,700</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">3/3/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.70</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;20,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">3/3/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.81</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;20,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">3/4/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$5.00</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;175,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">3/4/2021</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">BUY</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 12.55pt; color: #000000;">Common Stock</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">$4.87</div>
+          </td>
+          <td style="width: 20%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: justify; line-height: 13.7pt; color: #000000; font-size: 12pt;">&nbsp;11,908</div>
+          </td>
+        </tr>
+
+    </tbody></table>

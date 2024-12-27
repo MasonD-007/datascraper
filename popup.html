@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Table Data Scraper</title>
+  <style>
+    body {
+      width: 300px;
+      padding: 10px;
+      font-family: Arial, sans-serif;
+    }
+    button {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    #selectButton {
+      background-color: #4CAF50;
+      color: white;
+    }
+    #scrapeButton {
+      background-color: #2196F3;
+      color: white;
+    }
+    #cancelButton {
+      background-color: #f44336;
+      color: white;
+    }
+    #viewData {
+      background-color: #757575;
+      color: white;
+    }
+    button:hover {
+      opacity: 0.9;
+    }
+    button:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+    #status {
+      margin-top: 10px;
+      color: #666;
+      text-align: center;
+    }
+    .selection-mode {
+      display: none;
+    }
+    .selection-mode.active {
+      display: block;
+    }
+    .instructions {
+      font-size: 0.9em;
+      color: #666;
+      margin: 10px 0;
+      text-align: center;
+      padding: 5px;
+      background-color: #f5f5f5;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Table Data Scraper</h2>
+  
+  <!-- Initial State -->
+  <div id="initialState">
+    <button id="selectButton">Select Tables</button>
+    <button id="viewData">View Stored Data</button>
+  </div>
+
+  <!-- Selection Mode -->
+  <div id="selectionMode" class="selection-mode">
+    <p class="instructions">Click on tables to select them (they will turn blue when selected)</p>
+    <button id="scrapeButton">Scrape Selected Tables</button>
+    <button id="cancelButton">Cancel Selection</button>
+  </div>
+
+  <div id="status"></div>
+  <script src="popup.js"></script>
+</body>
+</html> 

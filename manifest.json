@@ -1,0 +1,24 @@
+{
+	"manifest_version": 3,
+	"name": "Table Data Scraper",
+	"version": "1.0",
+	"description": "Scrapes table data from web pages and copies to Excel",
+	"permissions": ["activeTab", "scripting", "clipboardWrite", "storage"],
+	"host_permissions": ["<all_urls>"],
+	"action": {
+		"default_popup": "popup.html"
+	},
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["content.js"],
+			"run_at": "document_end"
+		}
+	],
+	"web_accessible_resources": [
+		{
+			"resources": ["website/*"],
+			"matches": ["<all_urls>"]
+		}
+	]
+}
