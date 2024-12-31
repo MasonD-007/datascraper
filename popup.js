@@ -123,13 +123,96 @@ document.getElementById('scrapeButton').addEventListener('click', async () => {
                 console.log('Error stopping selection after scrape:', error);
             }
         } else {
-            statusElement.textContent = 'Please select at least one table with Common Stock data';
+            statusElement.textContent = 'Please select at least one table';
             statusElement.style.color = '#f44336';
         }
     } catch (error) {
         console.error('Error scraping tables:', error);
         const statusElement = document.getElementById('status');
         statusElement.textContent = 'Error: ' + (error.message || 'Could not scrape tables. Please refresh the page and try again.');
+        statusElement.style.color = '#f44336';
+    }
+});
+
+// Add event listeners for txt and html scrape buttons
+document.getElementById('scrapeTxtButton').addEventListener('click', async () => {
+    try {
+        const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+        if (!tab) {
+            throw new Error('No active tab found');
+        }
+
+        const statusElement = document.getElementById('status');
+        statusElement.textContent = 'Scraping TXT tables...';
+        statusElement.style.color = '#666';
+
+        const response = await chrome.tabs.sendMessage(tab.id, { action: 'scrapeTxt' });
+        console.log('TXT Scrape response:', response);
+        
+        if (response && response.tables && response.tables.length > 0) {
+            // Store the scraped data
+            storeScrapedData(response.tables, tab.url);
+            
+            statusElement.textContent = 'TXT tables copied and stored!';
+            statusElement.style.color = '#4CAF50';
+            
+            // Exit selection mode
+            document.getElementById('initialState').style.display = 'block';
+            document.getElementById('selectionMode').classList.remove('active');
+            try {
+                await chrome.tabs.sendMessage(tab.id, { action: 'stopSelection' });
+            } catch (error) {
+                console.log('Error stopping selection after scrape:', error);
+            }
+        } else {
+            statusElement.textContent = 'No TXT tables found';
+            statusElement.style.color = '#f44336';
+        }
+    } catch (error) {
+        console.error('Error scraping TXT tables:', error);
+        const statusElement = document.getElementById('status');
+        statusElement.textContent = 'Error: ' + (error.message || 'Could not scrape TXT tables. Please refresh the page and try again.');
+        statusElement.style.color = '#f44336';
+    }
+});
+
+document.getElementById('scrapeHtmlButton').addEventListener('click', async () => {
+    try {
+        const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+        if (!tab) {
+            throw new Error('No active tab found');
+        }
+
+        const statusElement = document.getElementById('status');
+        statusElement.textContent = 'Scraping HTML tables...';
+        statusElement.style.color = '#666';
+
+        const response = await chrome.tabs.sendMessage(tab.id, { action: 'scrapeHtml' });
+        console.log('HTML Scrape response:', response);
+        
+        if (response && response.tables && response.tables.length > 0) {
+            // Store the scraped data
+            storeScrapedData(response.tables, tab.url);
+            
+            statusElement.textContent = 'HTML tables copied and stored!';
+            statusElement.style.color = '#4CAF50';
+            
+            // Exit selection mode
+            document.getElementById('initialState').style.display = 'block';
+            document.getElementById('selectionMode').classList.remove('active');
+            try {
+                await chrome.tabs.sendMessage(tab.id, { action: 'stopSelection' });
+            } catch (error) {
+                console.log('Error stopping selection after scrape:', error);
+            }
+        } else {
+            statusElement.textContent = 'No HTML tables found';
+            statusElement.style.color = '#f44336';
+        }
+    } catch (error) {
+        console.error('Error scraping HTML tables:', error);
+        const statusElement = document.getElementById('status');
+        statusElement.textContent = 'Error: ' + (error.message || 'Could not scrape HTML tables. Please refresh the page and try again.');
         statusElement.style.color = '#f44336';
     }
 });

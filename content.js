@@ -54,6 +54,12 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         const selectedTables = document.querySelectorAll('.table-scraper-selected');
         const result = scrapeTables(selectedTables);
         sendResponse(result);
+    } else if (request.action === 'scrapeTxt') {
+        const result = scrapeTxtTables();
+        sendResponse(result);
+    } else if (request.action === 'scrapeHtml') {
+        const result = scrapeHtmlTables();
+        sendResponse(result);
     } else if (request.action === 'getState') {
         sendResponse({
             isSelectionMode: isSelectionMode,
@@ -265,3 +271,89 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         sendResponse(result);
     }
 });
+
+// Add new scraping functions
+function scrapeTxtTables() {
+    const pageText = document.body.innerText;
+    const tableRegex = /<TABLE>[\s\S]*?<\/TABLE>/gi;
+    const matches = pageText.match(tableRegex);
+    
+    if (!matches) {
+        console.log('No tables found in .txt file');
+        return { tables: [] };
+    }
+
+    const scrapedTables = matches.map((tableText, tableIndex) => {
+        // Split the table text into rows
+        const rows = tableText
+            .replace(/<TABLE>|<\/TABLE>/gi, '')
+            .split('\n')
+            .map(row => row.trim())
+            .filter(row => row);
+
+        if (rows.length === 0) return null;
+
+        // Find the first header row (row after a separator)
+        let headerIndex = -1;
+        for (let i = 0; i < rows.length - 1; i++) {
+            if (/^[-=\s]+$/.test(rows[i])) {
+                headerIndex = i + 1;
+                break;
+            }
+        }
+
+        if (headerIndex === -1 || headerIndex >= rows.length) {
+            console.log('No valid header row found after separator');
+            return null;
+        }
+
+        // Extract headers from the row after the separator
+        const headers = rows[headerIndex]
+            .split(/\s+/)
+            .filter(header => header)
+            .map(header => header.trim());
+        
+        // Process remaining rows
+        const dataRows = rows.slice(headerIndex + 1).map(row => {
+            return row
+                .split(/\s+/)
+                .filter(cell => cell)
+                .map(cell => cell.trim());
+        }).filter(row => {
+            return row.length > 0 && !row.every(cell => /^[-=\s]+$/.test(cell));
+        });
+
+        return {
+            headers: headers,
+            rows: dataRows
+        };
+    }).filter(table => table !== null);
+
+    return { tables: scrapedTables };
+}
+
+function scrapeHtmlTables() {
+    const tables = document.getElementsByTagName('table');
+    if (!tables || tables.length === 0) {
+        console.log('No HTML tables found');
+        return { tables: [] };
+    }
+
+    const scrapedTables = Array.from(tables).map(table => {
+        // Get headers
+        const headerRow = table.querySelector('tr');
+        const headers = headerRow ? Array.from(headerRow.cells).map(cell => cell.textContent.trim()) : [];
+
+        // Get data rows
+        const rows = Array.from(table.querySelectorAll('tr')).slice(1).map(row => {
+            return Array.from(row.cells).map(cell => cell.textContent.trim());
+        });
+
+        return {
+            headers: headers,
+            rows: rows
+        };
+    });
+
+    return { tables: scrapedTables };
+}

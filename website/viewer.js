@@ -97,7 +97,7 @@ function loadStoredData() {
 
             html += `
                 <div class="table-entry" data-table-index="${tableIndex}">
-                    <h3>Scraped Table ${tableIndex + 1}</h3>
+                    <h3 class="table-title" contenteditable="true" data-table-index="${tableIndex}">${table.title || `Scraped Table ${tableIndex + 1}`}</h3>
                     <p class="timestamp">Scraped on: ${table.timestamp || 'Unknown'}</p>
                     <p class="source">Source: ${table.source || 'Unknown'}</p>
                     <div class="table-container">
@@ -219,4 +219,21 @@ function clearAllData() {
         localStorage.removeItem('scrapedTables');
         loadStoredData();
     }
-} 
+}
+
+// Handle table title editing
+document.addEventListener('blur', (e) => {
+    if (e.target.classList.contains('table-title')) {
+        const tableIndex = parseInt(e.target.dataset.tableIndex);
+        const newTitle = e.target.textContent.trim();
+        
+        const storedData = localStorage.getItem('scrapedTables');
+        if (storedData) {
+            const tables = JSON.parse(storedData);
+            if (tables[tableIndex]) {
+                tables[tableIndex].title = newTitle;
+                localStorage.setItem('scrapedTables', JSON.stringify(tables));
+            }
+        }
+    }
+}, true); 

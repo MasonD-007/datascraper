@@ -26,3 +26,9 @@ I was doing data entry and was doing a lot of repeated copying and pasting and I
 3. You can copy the data by clicking the copy button
 4. You can delete the data by clicking the delete button
 5. You can clear the data by clicking the clear button
+
+
+## Requirements
+- The ablity to rename the title of each table object in the viewer
+- add a specific scrape button for when the url is txt and not html
+- add a specific scrape button for when the url is html and not txt
